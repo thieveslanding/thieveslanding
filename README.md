@@ -1,3 +1,3 @@
-![image](https://github.com/user-attachments/assets/d4564a29-06f5-4bf3-b414-f7f0d2231d86)
-![image](https://github.com/user-attachments/assets/1752c6e2-4765-49e1-afd1-f8b039394691)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31urjbmjokxo2f7g3gr446y7o2gm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=417d97&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+![image](https://github.com/user-attachments/assets/eca1142d-6737-4db1-9e9a-97b7b2c2359e)
