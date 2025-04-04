@@ -1,6 +1,6 @@
 ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀![](https://komarev.com/ghpvc/?username=your-github-username&color=7e7e7e)
 
-![steam status](https://steam-current-game.vercel.app/api/?steamids=<76561199543431208>)
+⠀![steam status](https://steam-current-game.vercel.app/api/?steamids=<76561199543431208>)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31urjbmjokxo2f7g3gr446y7o2gm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=7e7e7e7e)](https://github.com/kittinan/spotify-github-profile)
 
